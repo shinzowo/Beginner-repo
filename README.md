@@ -1,2 +1,2 @@
 # Beginner-repo
-just study
+just study!
